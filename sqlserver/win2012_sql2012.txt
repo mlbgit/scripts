@@ -1,0 +1,12 @@
+windows 2012
+SQL server 2012
+
+startup
+1) vm: win2008r2_dns
+	sql1.cty.local	192.168.173.10
+
+2) vm:win2012   (sql server 2012)
+	win10.cty.local 	192.168.173.90
+
+3) vm: win2012sql2
+	win20sql2012.cty.local	192.168.173.50
